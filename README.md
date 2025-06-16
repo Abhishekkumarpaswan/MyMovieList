@@ -49,7 +49,7 @@ A modern, responsive web application to browse, search, and discover movies. Bui
 
 - **OMDb API Limitations:** OMDb does not support direct genre filtering or trending endpoints, so genre browsing uses keyword-based search and may not be perfect.
 - **Random Movie Selection:** True randomness is not possible with OMDb, so a rotating set of keywords is used to simulate variety.
-- **Styling Consistency:** Achieving a Netflix/Amazon Prime look with Tailwind required custom classes and careful layout tweaks.
+- **Styling Consistency:** Achieving modern look with Tailwind required custom classes and careful layout tweaks.
 - **Merge Conflicts:** Git history divergence required manual conflict resolution and configuration changes.
 - **API Rate Limits:** OMDb's free tier has a daily request limit, so heavy usage may require a paid key.
 
